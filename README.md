@@ -280,4 +280,5 @@ Generate:
 - README
 - .env.example
 
-Code must be production-ready, scalable, clean, and fully typed.# -Max-X
+Code must be production-ready, scalable, clean, and fully typed.
+# -Max-X
